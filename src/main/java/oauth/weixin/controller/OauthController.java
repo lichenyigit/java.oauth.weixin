@@ -37,7 +37,7 @@ public class OauthController {
      * @param response
      * @return
      */
-    @GetMapping("/weixin/index")
+    @GetMapping("/weixin/login")
     @ResponseBody
     public void index(HttpServletResponse response){
         try {

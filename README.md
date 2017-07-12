@@ -2,7 +2,7 @@
 微信第三封登陆
 
 项目启动后首先
-1.在浏览器输入：localhost:8888/oauth/weixin/index
+1.在浏览器输入：localhost:8888/oauth/weixin/login
 然后扫码进入，
 2.复制url地址后的code放到code后
 http://localhost:8888/oauth/weixin/userInfo?code=
