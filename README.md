@@ -1,5 +1,5 @@
 # oauth.weixin
-微信第三封登陆
+微信第三方登陆
 
 项目启动后首先
 1.在浏览器输入：localhost:8888/oauth/weixin/login
